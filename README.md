@@ -62,4 +62,4 @@ Une fois l'entraînement terminé, vous pouvez visualiser l'évolution de la per
 ## Auteurs
 Ce projet a été développé par :
 
-  -Fatima Belgazem : fatimabelgazem1@gmail.com
+  -Maryma Ajahoud : maryamajahoud134@gmail.com
